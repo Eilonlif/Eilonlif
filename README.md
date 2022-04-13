@@ -1,4 +1,4 @@
-[![Eilonlif's GitHub stats](https://github-readme-stats.vercel.app/api?username=eilonlif)](https://github.com/anuraghazra/github-readme-stats)
+[![Eilonlif's GitHub stats](https://github-readme-stats.vercel.app/api?username=eilonlif&card_width=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eilonlif&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
