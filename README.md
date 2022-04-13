@@ -1,5 +1,8 @@
 [![Eilonlif's GitHub stats](https://github-readme-stats.vercel.app/api?username=eilonlif&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- I Didn't decid yet, need to see how to center.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eilonlif&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **Eilonlif/Eilonlif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
